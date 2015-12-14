@@ -17,15 +17,16 @@ Check if syntax is supported.
 ```js
 var evaluates = require('@micro-js/evaluates')
 
+evaluates('function noop () {}') // => true
 ```
 
 ## API
 
-### evaluates(arg)
+### evaluates(code)
 
-- `arg` -
+- `code` - code to check
 
-**Returns:**
+**Returns:** boolean
 
 ## License
 
