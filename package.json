@@ -2,7 +2,7 @@
   "name": "@f/evaluates",
   "description": "Check if syntax is supported.",
   "repository": "git://github.com/micro-js/evaluates.git",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
