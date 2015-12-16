@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/evaluates",
+  "name": "@f/evaluates",
   "description": "Check if syntax is supported.",
   "repository": "git://github.com/micro-js/evaluates.git",
   "version": "1.0.0",

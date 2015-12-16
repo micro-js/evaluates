@@ -10,12 +10,12 @@ Check if syntax is supported.
 
 ## Installation
 
-    $ npm install @micro-js/evaluates
+    $ npm install @f/evaluates
 
 ## Usage
 
 ```js
-var evaluates = require('@micro-js/evaluates')
+var evaluates = require('@f/evaluates')
 
 evaluates('function noop () {}') // => true
 ```
@@ -38,5 +38,5 @@ MIT
 [git-url]: https://github.com/micro-js/evaluates
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/evaluates.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/evaluates
+[npm-image]: https://img.shields.io/npm/v/@f/evaluates.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/evaluates
